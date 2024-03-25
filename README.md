@@ -10,4 +10,6 @@ Aplicación de tipo CRUD con el frontend en Qwik y el backend en FastAPI (Python
 
 Enlace al video de demostración en YouTube: https://youtu.be/lYVr9M_toiI
 
+Enlace en al archivo .zip del proyecto: https://drive.google.com/file/d/1V6AJQ7MJoqtKhtpsXkh-Usmn4HXe64sl/view?usp=sharing
+
 En la carpeta src/frontend/node_modules no esta subido todos los archivos porque no me deja subir algunos archivos.
