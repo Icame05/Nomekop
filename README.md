@@ -8,6 +8,6 @@ Aplicación de tipo CRUD con el frontend en Qwik y el backend en FastAPI (Python
 
 ![Nomekop-Entrenadores](https://github.com/Icame05/Nomekop/assets/157821264/e63ec15d-19f8-4e48-8d54-e9753e3ca0c0)
 
-Enlace al video de demostración en YouTube:
+Enlace al video de demostración en YouTube: https://youtu.be/lYVr9M_toiI
 
 En la carpeta src/frontend/node_modules no esta subido todos los archivos porque no me deja subir algunos archivos.
