@@ -1,0 +1,84 @@
+/**
+ * Tailwind CSS imports
+ * View the full documentation at https://tailwindcss.com
+ */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.title {
+  background-color: #261A3C
+}
+
+tbody {
+  color: white
+}
+
+tbody input {
+  color: black;
+}
+
+tbody select {
+  color: black;
+}
+
+header {
+  margin-bottom: 50px;
+  opacity: 80%;
+  height: 175px;
+}
+
+#main {
+  width: auto;
+  height: auto;
+}
+
+footer {
+  background-color: black; 
+  color: white; 
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+  margin-top: 50px;
+  opacity: 80%;
+}
+
+footer img {
+  display: inline-block;
+}
+
+@layer base {
+  .title {
+    @apply w-40 mt-4 mr-3 rounded-md text-white;
+  }
+
+  td {
+    @apply text-center;
+  }
+
+  input {
+    @apply p-1 rounded-md focus:outline-none focus:border-alanturing-800 focus:border-2
+  }
+
+  button {
+    @apply px-2 py-1 rounded-md text-white
+  }
+
+  .button {
+    @apply px-2 py-2 rounded-md text-white cursor-pointer
+  }
+
+  i {
+    @apply mr-1
+  }
+
+  .button-Todos-highlighted {
+    @apply w-64 mt-4 mr-3;
+    background-color: #261A3C;
+  }
+
+  .button-Todos {
+    @apply w-64 mt-4 mr-3;
+    background-color: #7D55C7;
+  }
+}
